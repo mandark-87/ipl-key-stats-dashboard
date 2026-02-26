@@ -1,5 +1,5 @@
 ### Dashboard
-![Dashboard](https://github.com/user-attachments/assets/55b2363d-1663-4c09-a585-ef3a17cd235f")
+![Dashboard](https://github.com/user-attachments/assets/55b2363d-1663-4c09-a585-ef3a17cd235f)
 🏏 IPL Key Stats Dashboard (2008–2025)
 📌 Overview
 
@@ -58,4 +58,5 @@ Real-world sports analytics
 Add this in your resume under Projects:
 
 Built an interactive IPL Analytics Dashboard (2008–2025) using Python, Pandas, Plotly, and Streamlit with dynamic season filtering and KPI-driven visualization.
+
 
